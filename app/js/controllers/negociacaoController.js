@@ -1,3 +1,5 @@
+import {listaNegociacao} from '../models/listaNegociacoes.js';
+
 class NegociacaoController{
     //Estanciando os atributos privados (referente aos campos da tag "form" do HTML)
     #campoData;
